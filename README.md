@@ -35,7 +35,7 @@
 
 [![Linkedin: Vivek](https://img.shields.io/badge/-Vivek-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivekyadav9506115091/)](https://www.linkedin.com/in/vivekyadav9506115091)
 [![GitHub: followers](https://img.shields.io/github/followers/vivek1833?&style=social)](https://www.github.com/vivek1833)
-[![Gmail: Email](https://img.shields.io/badge/-Email-white?&logo=Gmail&logoColor=red)](mailto:vivekyadav9506@gmail)
+[![Gmail: Email](https://img.shields.io/badge/-Email-white?&logo=Gmail&logoColor=red)](mailto:vivekyadav138001@gmail.com)
 
 </div>
 
