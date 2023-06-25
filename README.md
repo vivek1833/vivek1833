@@ -33,9 +33,9 @@
 </h3>
 <div align="center">
 
-  [![Linkedin: Vivek](https://img.shields.io/badge/-Vivek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivekyadav9506115091//)](https://www.linkedin.com/in/anmol098/)
-  ![GitHub followers](https://img.shields.io/github/followers/vivek1833?label=Follow&style=social)
-  ![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ironblack138001@gmail.com)
+[![Linkedin: Vivek](https://img.shields.io/badge/-Vivek-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivekyadav9506115091/)](https://www.linkedin.com/in/vivekyadav9506115091)
+[![GitHub: followers](https://img.shields.io/github/followers/vivek1833?&style=social)](https://www.github.com/vivek1833)
+[![Gmail: Email](https://img.shields.io/badge/-Email-white?&logo=Gmail&logoColor=red)](mailto:vivekyadav9506@gmail)
 
 </div>
 
