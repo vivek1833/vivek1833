@@ -43,6 +43,7 @@
 <strong>Tools & Platforms</strong><br>
 <a href="https://www.docker.com/" title="Docker"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio"><img alt="Visual Studio" src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white"/></a>
+<a href="https://kafka.apache.org/" title="Apache Kafka"><img alt="Apache Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/></a>
 <a href="https://firebase.google.com/" title="Firebase"><img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/></a>
 <a href="https://git-scm.com/" title="Git"><img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
 <a href="https://www.pgadmin.org/" title="PgAdmin"><img alt="PgAdmin" src="https://img.shields.io/badge/-PgAdmin-336791?style=flat-square&logo=postgresql&logoColor=white"/></a>
