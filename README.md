@@ -1,79 +1,22 @@
-<div align="center">
-    <h1>
-        <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-        Hi, I'm Vivek! <br/>
-    </h1>
-    <p align="center">
-      <a href="https://vivek1833.github.io/" target="_blank">
-        <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0078D4?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
-      </a>
-    </p>
-    <p><em>Turning ideas into impactful software solutions.</em></p>
-</div>
+# 💫 About Me:
+👋 Hi there! I'm Vivek Yadav, a passionate Software Engineer who loves building backend systems.<br>🔭 Currently exploring Spring Boot, Kafka, and System Design<br>👯 Open to collaborating on backend-heavy projects or open-source contributions<br>🌱 Continuously learning Distributed Systems and Microservice Architecture<br>💬 Ask me about Java, Spring Boot, PostgreSQL, or API Design<br>⚡ Fun fact: I enjoy debugging complex issues more than writing boilerplate code 😄
 
-<p>Welcome to my profile! <br> I'm Vivek, a <b>CSE</b> undergraduate from <b>Chandigarh University.</b> </p>
 
-<hr>
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
-<p align="center">
-  <em>I love building scalable, secure, and user-friendly applications using modern technologies.</em>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivekyadav9506115091) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vivekyadav138001@gmail.com) 
 
-<div align="center">
-<strong>Languages</strong><br>
-<a href="https://www.cprogramming.com/" title="C"><img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white"/></a>
-<a href="https://isocpp.org/" title="C++"><img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
-<a href="https://www.python.org/" title="Python"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
-<a href="https://www.w3schools.com/sql/" title="SQL"><img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/></a>
-<br><br>
-<strong>Frameworks & Libraries</strong><br>
-<a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/></a>
-<a href="https://nodejs.org/" title="Node.js"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white"/></a>
-<a href="https://react.dev/" title="React.js"><img alt="React.js" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"/></a>
-<a href="https://expressjs.com/" title="Express.js"><img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white"/></a>
-<a href="https://getbootstrap.com/" title="Bootstrap"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/></a>
-<br><br>
-<strong>Databases</strong><br>
-<a href="https://www.postgresql.org/" title="PostgreSQL"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/></a>
-<a href="https://redis.io/" title="Redis"><img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></a>
-<a href="https://www.mysql.com/" title="MySQL"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
-<a href="https://www.mongodb.com/" title="MongoDB"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>
-<a href="https://firebase.google.com/products/firestore" title="Firestore"><img alt="Firestore" src="https://img.shields.io/badge/-Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black"/></a>
-<br><br>
-<strong>Tools & Platforms</strong><br>
-<a href="https://www.docker.com/" title="Docker"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio"><img alt="Visual Studio" src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white"/></a>
-<a href="https://kafka.apache.org/" title="Apache Kafka"><img alt="Apache Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/></a>
-<a href="https://firebase.google.com/" title="Firebase"><img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/></a>
-<a href="https://git-scm.com/" title="Git"><img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
-<a href="https://www.pgadmin.org/" title="PgAdmin"><img alt="PgAdmin" src="https://img.shields.io/badge/-PgAdmin-336791?style=flat-square&logo=postgresql&logoColor=white"/></a>
-<a href="https://www.postman.com/" title="Postman"><img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/></a>
-<a href="https://www.sublimetext.com/" title="Sublime Text"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat-square&logo=sublime-text&logoColor=white"/></a>
-</div>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Handlebars](https://img.shields.io/badge/Handlebars-%23000000?style=for-the-badge&logo=Handlebars.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vivek1833&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vivek1833&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek1833&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<hr>
-<h3>
-    🤝🏻 Connect with Me
-</h3>
-<div align="center">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vivek1833&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-[![Linkedin: Vivek](https://img.shields.io/badge/-Vivek-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivekyadav9506115091/)](https://www.linkedin.com/in/vivekyadav9506115091)
-[![GitHub: followers](https://img.shields.io/github/followers/vivek1833?&style=social)](https://www.github.com/vivek1833)
-[![Gmail: Email](https://img.shields.io/badge/-Email-white?&logo=Gmail&logoColor=red)](mailto:vivekyadav138001@gmail.com)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-</div>
-
-<hr>
-<h3 align="center">📈 My GitHub Stats</h3>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vivek1833&show_icons=true&theme=radical" alt="github-stats"><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek1833&layout=compact&theme=radical" alt="top-langs">
-    <br>
-    <img src="https://komarev.com/ghpvc/?username=vivek1833&color=blueviolet&label=Visitors" alt="profile-views">
-    <img alt="Stars" src="https://img.shields.io/github/stars/vivek1833/vivek1833?style=flat-square&labelColor=343b41"/> 
-    <img alt="Forks" src="https://img.shields.io/github/forks/vivek1833/vivek1833?style=flat-square&labelColor=343b41"/>
-    <img alt="Contributors" src="https://img.shields.io/github/contributors/vivek1833/vivek1833?style=flat-square&labelColor=343b41"/>
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/vivek1833/vivek1833?style=flat-square&labelColor=343b41"/>  
-</div>
-
-<hr>
+---
+[![](https://visitcount.itsvg.in/api?id=vivek1833&icon=5&color=2)](https://visitcount.itsvg.in)
